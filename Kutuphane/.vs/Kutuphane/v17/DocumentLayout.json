@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cagat\\source\\repos\\Kutuphane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C38458-4807-4BD4-A0F1-E87EB60B15DB}|Kutuphane\\Kutuphane.csproj|c:\\users\\cagat\\source\\repos\\kutuphane\\kutuphane\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C38458-4807-4BD4-A0F1-E87EB60B15DB}|Kutuphane\\Kutuphane.csproj|solutionrelative:kutuphane\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C38458-4807-4BD4-A0F1-E87EB60B15DB}|Kutuphane\\Kutuphane.csproj|c:\\users\\cagat\\source\\repos\\kutuphane\\kutuphane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C38458-4807-4BD4-A0F1-E87EB60B15DB}|Kutuphane\\Kutuphane.csproj|solutionrelative:kutuphane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\Kutuphane\\Kutuphane\\Kitap.cs",
+              "RelativeDocumentMoniker": "Kutuphane\\Kitap.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\Kutuphane\\Kutuphane\\Kitap.cs",
+              "RelativeToolTip": "Kutuphane\\Kitap.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA6wBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:29:49.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\Kutuphane\\Kutuphane\\Program.cs",
+              "RelativeDocumentMoniker": "Kutuphane\\Program.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\Kutuphane\\Kutuphane\\Program.cs",
+              "RelativeToolTip": "Kutuphane\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:29:01.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
